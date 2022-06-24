@@ -3,7 +3,7 @@ Repositorio para el desarrollo del TF de Administración de la Información
 
 ## Objetivo del trabajo
 
-...
+Para el presente trabajo final, debemos desarrollar un Análisis Exploratorio de Datos (EDA). Donde resolveremos un problema básico de Modelación de Datos, en nuestro caso, con la finalidad de conocer las tendencias de los videos de Youtube en Estados Unidos. A partir de ellos podremos responder a varios requerimientos de información que se presentarán a continuación.
 
 ## Autores
 
@@ -11,7 +11,28 @@ Repositorio para el desarrollo del TF de Administración de la Información
 - Goyas Ayllon, Leonardo Andre - [@Elyeet9](https://github.com/Elyeet9)
 - Villafuerte Ramirez, Diego Tomas - [@DTomasVr](https://github.com/DTomasVr)
 
-## Breve descripción del dataset
+## Breve descripción del conjunto de datos
+
+Para el presente trabajo, empleamos el conjunto de datos llamado Hotel booking demand, la cual se obtuvo de la página web Kaggle. Este dataset fue modificado para incorporar ruido en los datos, con valores faltantes (NA) y datos atípicos (outliers).
+
+El conjunto de datos empleado en el proyecto de análisis se denomina [Tendencias de las estadísticas de videos de YouTube (Trending YouTube Video Statistics)](https://www.kaggle.com/datasets/datasnaek/youtube-new), donde se modificó, incorporándole cuatro nuevas columnas.
+Este conjunto de datos es un registro diario de los videos de YouTube de mayor tendencia, cuyo contenido incluye varios meses sobre datos de tendencias diarias de videos en los siguientes países:
+- EE. UU. (US)
+- Gran Bretaña (GB)
+- Alemania (DE)
+- Canadá (CA)
+- Francia (FR)
+- Rusia (RU)
+- México (MX)
+- Corea del Sur (KR)
+- Japón (JP)
+- India (IN)
+
+Sin embargo, bajo el proyecto actual, solo se analizará el país de **EE.UU. (US).**
+
+[(Clic aquí para ir al Informe Grupal - PDF Adjuntado)](https://github.com/FrowsyFrog/EB-2022-1-CC51)
+
+## Conclusiones
 
 ...
 

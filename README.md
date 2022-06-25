@@ -34,7 +34,14 @@ Sin embargo, bajo el proyecto actual, solo se analizará el país de **EE.UU. (U
 
 ## Conclusiones
 
-...
+- La categoría de vídeos con más apariciones en tendencias es “Entertaiment”
+- La categoría de vídeos con más “Me gusta” es “Music”
+- La categoría de vídeos con un mejor ratio entre “Me gusta” y “No me gusta” es “Shows”
+- A partir de abril del 2018 el volumen de videos en tendencia disminuyó considerablemente.
+- El canal con más videos que aparecieron en tendencias es ESPN.
+- El estado con la mayor cantidad de vistas es Delaware.
+- Gracias a un modelo de regresión lineal. si es factible predecir la cantidad de “Vistas”, “Me gusta” y “No me gusta”.
+- Finalmente, gracias a la propuesta de modelo brindada, se facilita el hallar el promedio de vistas para fechas posteriores al 15/11/2017
 
 ## Licencia
 

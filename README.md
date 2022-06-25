@@ -30,7 +30,7 @@ Este conjunto de datos es un registro diario de los videos de YouTube de mayor t
 
 Sin embargo, bajo el proyecto actual, solo se analizará el país de **EE.UU. (US).**
 
-[(Clic aquí para ir al Informe Grupal - PDF Adjuntado)]([https://github.com/FrowsyFrog/EB-2022-1-CC51/blob/main/Grupo%202%20-%20Administración%20de%20la%20Información%20TF.pdf])
+[(Clic aquí para ir al Informe Grupal - PDF Adjuntado)](https://github.com/FrowsyFrog/EB-2022-1-CC51/blob/main/Grupo%202%20-%20Administración%20de%20la%20Información%20TF.pdf)
 
 ## Conclusiones
 
